@@ -107,7 +107,7 @@ El script implementa el siguiente flujo completo:
 El código fuente y los datos finales procesados se encuentran en:
 [**Acceder al Repositorio de Trabajo (Dropbox)**](https://www.dropbox.com/scl/fo/3dajlwga2dvucsm0kkd29/AMG_jIkWyRF44Uh7X7wV3hU?rlkey=n1jay3rvl888qgxvgeldvhiup&st=kdduwrqd&dl=0)
 
-## **[Dropbox](Imagenes/Dropbox.png)**
+## **![Dropbox](Imagenes/Dropbox.png)**
 
 ### Visor del Dashboard (Power BI)
 **⚠️ NOTA:** Para acceder al visor es importante que se debe usar una **cuenta de la UAO**.
@@ -118,6 +118,6 @@ El código fuente y los datos finales procesados se encuentran en:
 ###  Automatizador con Tareas de Windows
 Proceso de creación y ejecución de tareas en Windows, para actualizar las bases de datos
 
-## **[Configurar tarea](Imagenes/Configurar_Tarea.png)**
+## **![Configurar tarea](Imagenes/Configurar_Tarea.png)**
 
-## **[Ejecución de Tarea](Imagenes/Tarea.png)**
+## **![Ejecución de Tarea](Imagenes/Tarea.png)**
